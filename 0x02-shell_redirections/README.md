@@ -1,1 +1,1 @@
-8-cwd_state
+a script that displays a confused smiley
