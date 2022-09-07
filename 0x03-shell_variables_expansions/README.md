@@ -1,1 +1,1 @@
-a script that creates a new global variable
+a script that prints all possible combinations of two letters, except oo
